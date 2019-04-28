@@ -35,10 +35,8 @@ function loadInput() {
         str = "0000" + count;
     } else if (count < 100) { 
         str = "000" + count; 
-    }else if(count < 1000){
-        str = "00" + count;
     }
-    if(count >= 1000) count = 0;
+    if(count >= 100) count = 0;
     
     img.src = "img/" + str + ".jpg";
 }
