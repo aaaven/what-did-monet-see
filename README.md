@@ -1,7 +1,5 @@
 
-> What did Claude Monet see as he placed his easel by the bank of the Seine near Argenteuil on a lovely spring day in 1873? A color photograph, had it been invented, may have documented a crisp blue sky and a glassy river reflecting it. Monet conveyed his impression of this same scene through wispy brush strokes and a bright palette.
-
-**-- Junyan Zhu .etc**
+> What did Claude Monet see as he placed his easel by the bank of the Seine near Argenteuil on a lovely spring day in 1873? A color photograph, had it been invented, may have documented a crisp blue sky and a glassy river reflecting it. Monet conveyed his impression of this same scene through wispy brush strokes and a bright palette.           **-- Junyan Zhu .etc**
 
 This short paragraph is quoted from the paper written by Junyan Zhu .etc. At the beginning of their paper, they raised this question along with another: 
 
