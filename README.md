@@ -1,8 +1,7 @@
-```
-What did Claude Monet see as he placed his easel by the bank of the Seine near Argenteuil on a lovely spring day in 1873? A color photograph, had it been invented, may have documented a crisp blue sky and a glassy river reflecting it. Monet conveyed his impression of this same scene through wispy brush strokes and a bright palette.
+
+> What did Claude Monet see as he placed his easel by the bank of the Seine near Argenteuil on a lovely spring day in 1873? A color photograph, had it been invented, may have documented a crisp blue sky and a glassy river reflecting it. Monet conveyed his impression of this same scene through wispy brush strokes and a bright palette.
 
 **-- Junyan Zhu .etc**
-```
 
 This short paragraph is quoted from the paper written by Junyan Zhu .etc. At the beginning of their paper, they raised this question along with another: 
 
@@ -33,7 +32,7 @@ Here are some screenshots of the web app:
 
 |   |   |   |
 |:-:|:-:|:-:|
-|![0](0.PNG)|![1](1.PNG)|![2](2.PNG)|
-|![3](3.PNG)|![4](4.PNG)|![5](5.PNG)|
-|![6](6.PNG)|![7](7.PNG)|![8](8.PNG)|
-|![9](9.PNG)|![10](10.PNG)|![11](11.PNG)|
+|![0](md_imgs/0.PNG)|![1](md_imgs/1.PNG)|![2](md_imgs/2.PNG)|
+|![3](md_imgs/3.PNG)|![4](md_imgs/4.PNG)|![5](md_imgs/5.PNG)|
+|![6](md_imgs/6.PNG)|![7](md_imgs/7.PNG)|![8](md_imgs/8.PNG)|
+|![9](md_imgs/9.PNG)|![10](md_imgs/10.PNG)|![11](md_imgs/11.PNG)|
