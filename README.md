@@ -27,7 +27,7 @@ Here are some screenshots of the web app:
 
 |   |   |   |
 |:-:|:-:|:-:|
-|![0](md_imgs/0.png)|![1](md_imgs/1.PNG)|![2](md_imgs/2.png)|
+|![0](md_imgs/0.PNG)|![1](md_imgs/1.PNG)|![2](md_imgs/2.PNG)|
 |![3](md_imgs/3.PNG)|![4](md_imgs/4.PNG)|![5](md_imgs/5.PNG)|
 |![6](md_imgs/6.PNG)|![7](md_imgs/7.PNG)|![8](md_imgs/8.PNG)|
 |![9](md_imgs/9.PNG)|![10](md_imgs/10.PNG)|![11](md_imgs/11.PNG)|
